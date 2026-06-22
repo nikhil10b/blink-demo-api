@@ -1,3 +1,4 @@
+# Managed by Blink — do not edit manually (service: test-demo)
 version: '3.8'
 
 services:
